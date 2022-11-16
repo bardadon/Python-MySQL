@@ -4,10 +4,10 @@
 
 This is a tutorial on connecting Python to MySQL. 
 
-The tutorial covers how to: 
+**The tutorial covers how to: **
   - Connect to MySQL.
   - Select and Query Data.
-  - Insert or Many Rows.
+  - Insert One or Many Rows.
   - Update Data.
   - Delete Data.
   - Call Stored Procedure With and Without Parameters.
